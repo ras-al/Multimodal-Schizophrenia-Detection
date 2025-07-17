@@ -1,0 +1,6 @@
+Reddit Mental Health Dataset -https://www.kaggle.com/datasets/neelghoshal/reddit-mental-health-data
+
+FER-2013 Dataset — https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition/data
+
+CREMA-D Dataset - https://www.kaggle.com/datasets/ejlok1/cremad
+
